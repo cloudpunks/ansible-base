@@ -1,6 +1,6 @@
 ---
 repository:
-  name: base
+  name: ansible-base
   description: Ansible role to install useful basic packages
   topics: ansible, role, ansible-role, hacktoberfest
 
